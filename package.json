@@ -1,0 +1,24 @@
+{
+  "name": "incident-report-log",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.89.2",
+    "vite": "^7.0.0"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "axios": "^1.10.0",
+    "daisyui": "^5.0.43",
+    "dayjs": "^1.11.13",
+    "firebase": "^11.9.1",
+    "tailwindcss": "^4.1.11",
+    "uuid": "^11.1.0"
+  }
+}
